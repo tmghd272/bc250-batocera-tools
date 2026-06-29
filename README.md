@@ -10,5 +10,5 @@ Batocera is a read-only system, so most parts of these scripts do not directly a
 
 ## Table of Contents
 
-- [cyan-skillfish-governor-smu](governor_smu.md)
-- [bc250-cu-live-manager](cu_manager.md)
+- [cyan-skillfish-governor-smu](guides/governor_smu.md)
+- [bc250-cu-live-manager](guides/cu_manager.md)
