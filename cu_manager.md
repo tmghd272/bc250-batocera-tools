@@ -70,3 +70,6 @@ batocera-services enable bc250_cu_manager
 batocera-services stop bc250_cu_manager
 batocera-services disable bc250_cu_manager
 ```
+---
+## About UMR (Optional / Advanced)
+Read my documented [guide](umr.md) on how to build and bundle your own BC-250 optimized umr.
