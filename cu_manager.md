@@ -1,4 +1,4 @@
-# Batocera Setup for bc250-cu-live-manager
+# Batocera Setup for [bc250-cu-live-manager](https://github.com/WinnieLV/bc250-cu-live-manager)
 
 To install the script, simply run:
 
@@ -31,6 +31,8 @@ cu-menu
 ```
 
 Running the `cu-menu` command will automatically run `bc250-cu-live-manager.sh` with the required arguments for Batocera.
+
+---
 
 Once inside the Live Manager, press `[e] Edit WGP table` or `[f] Enable all CUs`.
 
