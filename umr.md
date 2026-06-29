@@ -11,7 +11,7 @@
 | Field | Value |
 |---|---|
 | umr version | `1.0.11` |
-| git commit | `26e2902` |
+| git commit | `26e29024` |
 | full tag | `1.0.11-273-g26e2902` |
 | source | https://gitlab.freedesktop.org/tomstdenis/umr |
 | built with | `-DUMR_GUI=OFF -DUMR_NO_LLVM=ON` |
