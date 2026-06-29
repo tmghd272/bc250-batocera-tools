@@ -33,7 +33,7 @@ fi
 # ── umr ────────────────────────────────────────────────────────────────────────
 echo "${C}==> Checking for umr...${R}"
 
-UMR_BUNDLE_URL="https://github.com/tmghd272/bc250-batocera-tools/raw/main/umr-bc250.tar.gz"
+UMR_BUNDLE_URL="https://github.com/tmghd272/bc250-batocera-tools/raw/main/dependencies/umr-bc250.tar.gz"
 
 download_umr_bundle() {
     echo "    Downloading umr BC-250 bundle..."
