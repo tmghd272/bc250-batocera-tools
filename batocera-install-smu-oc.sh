@@ -213,7 +213,7 @@ echo "  ${C}bc250-reset${R}   wipe overclock.conf + overclock.pending; reboot to
 echo ""
 echo "   -f, --frequency   target boost clock in MHz  (valid: 3500-4500)"
 echo "   -v, --vid         max CPU core voltage in mV (valid: 950-1325)"
-echo "   -t, --temp        CPU+GPU temp limit in degC (default: 90)"
+echo "   -t, --temp        CPU temp limit in degC (default: 90)"
 echo "   -k, --keep        keep overclock applied after detect finishes"
 echo ""
 echo "  Note: --config is baked in, no need to pass a path."
