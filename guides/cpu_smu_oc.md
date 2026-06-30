@@ -26,7 +26,7 @@ This service will automatically load `bc250_smu_oc` on boot.
 bc250-detect  --frequency MHz --vid mV [--temp degC] [--keep]
  -f, --frequency   target boost clock in MHz  (valid: 3500-4500)
  -v, --vid         max CPU core voltage in mV (valid: 950-1325)
- -t, --temp        CPU+GPU temp limit in degC (default: 90)
+ -t, --temp        CPU temp limit in degC (default: 90)
  -k, --keep        keep overclock applied after detect finishes
 Note: --config is baked in, no need to pass a path.
 ```
