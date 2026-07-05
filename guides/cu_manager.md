@@ -50,7 +50,7 @@ Once you are back in the CU Dashboard, after making any changes, you must press 
 
 Once done, simply press `[q] Quit`.
 
-Note: `[i] Install service` and `[u] Uninstall service` are obsolete on Batocera systems because it already uses batocera services instead of standard systemd service management. These options can be safely ignored.
+> Note: `[i] Install service` and `[u] Uninstall service` are obsolete on Batocera systems because it already uses batocera services instead of standard systemd service management. These options can be safely ignored.
 
 It is recommended to restart the Batocera service or reboot the system for changes to take effect.
 
