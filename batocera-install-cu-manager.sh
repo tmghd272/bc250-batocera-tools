@@ -2,6 +2,7 @@
 set -e
 
 C=$'\033[96m'
+Y=$'\033[93m'
 R=$'\033[0m'
 
 INSTALL_DIR="/userdata/system/bc250-cu-manager"
