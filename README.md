@@ -13,3 +13,4 @@ Batocera is a read-only system, so most parts of these scripts do not directly a
 - [cyan-skillfish-governor-smu](guides/governor_smu.md)
 - [bc250-cu-live-manager](guides/cu_manager.md)
 - [bc250_smu_oc](guides/cpu_smu_oc.md)
+- [bc250-core-unlock (8-core CPU unlock)](guides/cpu_8core.md)
